@@ -13,6 +13,7 @@ I'm an IT student focused on building strong foundations in programming, data sc
 Some Projects developed throughout my journey at 42 School.
 
 ➡️ **[MiniShell](https://github.com/alberto-rj/minishell)**
+
 ➡️ **[MiniRT](https://github.com/Miguel-Kumbi/miniRT---42)**
 
 ---
