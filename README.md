@@ -55,24 +55,18 @@ Machine Learning studies and projects.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-**Currently exploring**
-
-Django · Pandas · NumPy · Data Analysis
-
----
-
-## 🎯 Current Focus
-
-- 📊 Data Science
-- 🐍 Python
-- 🤖 Machine Learning
-- 🌐 Backend Development with Django
-- 🧠 Algorithms & Data Structures
+**Languages:** C/C++ · Python · SQL
+**Backend:** Django, FastAPI 
+**Data:** Pandas · NumPy · Matplotlib
+**Tools:** Git · GitHub · Linux · VS Code
 
 ---
 
-## 📚 Learning Journey
+## 📫 Contact
 
-I'm continuously learning through personal projects and software development challenges.
+- LinkedIn: (https://www.linkedin.com/in/miguel-kumbi)
+- Email: miguelkumbi97@gmail.com
+- Location: Luanda, Angola 🇦🇴
+
