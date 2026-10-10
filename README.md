@@ -10,9 +10,10 @@ I'm an IT student focused on building strong foundations in programming, data sc
 
 ### 🎓 42 Cursus
 
-Projects developed throughout my journey at 42 School.
+Some Projects developed throughout my journey at 42 School.
 
 ➡️ **[MiniShell](https://github.com/alberto-rj/minishell)**
+➡️ **[MiniRT](https://github.com/Miguel-Kumbi/miniRT---42)**
 
 ---
 
@@ -34,7 +35,7 @@ Solutions and notes from competitive programming platforms.
 
 Backend development projects using Python and Django.
 
-*Projects coming soon.*
+➡️ **[Blog](https://github.com/Miguel-Kumbi/Meu-Blog)**
 
 ---
 
