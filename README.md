@@ -12,9 +12,9 @@ I'm an IT student focused on building strong foundations in programming, data sc
 
 Some Projects developed throughout my journey at 42 School.
 
-➡️ **[MiniShell](https://github.com/alberto-rj/minishell)** — Ray tracer in C that renders 3D scenes with lighting and shadows. *(C, MiniLibX, vector math)*
+➡️ **[MiniShell](https://github.com/alberto-rj/minishell)** — Unix shell in C featuring pipes, redirection, environment variables, and built-ins. *(C, Unix, in collaboration with @alberto-rj)*
 
-➡️ **[MiniRT](https://github.com/Miguel-Kumbi/miniRT---42)** — Unix shell in C featuring pipes, redirection, environment variables, and built-ins. *(C, Unix, in collaboration with @alberto-rj)*
+➡️ **[MiniRT](https://github.com/Miguel-Kumbi/miniRT---42)** — Ray tracer in C that renders 3D scenes with lighting and shadows. *(C, MiniLibX, vector math, in collaboration with @alberto-rj)*
 
 ---
 
