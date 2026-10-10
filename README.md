@@ -58,9 +58,9 @@ Machine Learning studies and projects.
 
 ## 🛠️ Tech Stack
 
-**Languages:** C/C++ · Python · SQL
-**Backend:** Django, FastAPI 
-**Data:** Pandas · NumPy · Matplotlib
+**Languages:** C/C++ · Python · SQL  
+**Backend:** Django, FastAPI   
+**Data:** Pandas · NumPy · Matplotlib   
 **Tools:** Git · GitHub · Linux · VS Code
 
 ---
