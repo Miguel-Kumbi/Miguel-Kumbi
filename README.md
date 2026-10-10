@@ -12,9 +12,9 @@ I'm an IT student focused on building strong foundations in programming, data sc
 
 Some Projects developed throughout my journey at 42 School.
 
-➡️ **[MiniShell](https://github.com/alberto-rj/minishell)**
+➡️ **[MiniShell](https://github.com/alberto-rj/minishell)** — Ray tracer in C that renders 3D scenes with lighting and shadows. *(C, MiniLibX, vector math)*
 
-➡️ **[MiniRT](https://github.com/Miguel-Kumbi/miniRT---42)**
+➡️ **[MiniRT](https://github.com/Miguel-Kumbi/miniRT---42)** — Unix shell in C featuring pipes, redirection, environment variables, and built-ins. *(C, Unix, in collaboration with @alberto-rj)*
 
 ---
 
@@ -28,7 +28,7 @@ Solutions and notes from competitive programming platforms.
 - LeetCode
 - Beecrowd
 
-➡️ **[Competitive Programming](https://github.com/Miguel-Kumbi/competitive-programming)**
+➡️ **[Competitive Programming](https://github.com/Miguel-Kumbi/competitive-programming)** — Some solved problems from the platforms above. *(Algorithms and data structures)*
 
 ---
 
@@ -36,7 +36,7 @@ Solutions and notes from competitive programming platforms.
 
 Backend development projects using Python and Django.
 
-➡️ **[Blog](https://github.com/Miguel-Kumbi/Meu-Blog)**
+➡️ **[Blog](https://github.com/Miguel-Kumbi/Meu-Blog)** — Blog with authentication and post CRUD functionality. *(Python, Django, SQLite)*
 
 ---
 
